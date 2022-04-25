@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+
+
+#admin notes
+#ua change kr lo Jo es main add hain sab local hain ab kam nhi kr rhy
+#dont forget share and sport
+#Thank You
 import os
 try:
     import requests
